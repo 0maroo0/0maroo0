@@ -14,14 +14,13 @@
 #### Get in Touch:
 - 🌐 [Personal Website](https://bemocode.com)
 - 📧 [Email](mailto:marwanbemo0@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/marwancode/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/marwancode/)
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0maroo0&theme=dark&hide_border=false&count_private=true" width="500">
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=0maroo0&theme=dark&hide_border=false" width = 500>
+<img src="https://github-readme-stats.vercel.app/api?username=0maroo0&show_icons=true&theme=dark&count_private=true" width="500">
 
-<img src = "https://github-readme-stats.vercel.app/api?username=0maroo0&show_icons=true&theme=dark" width = 500>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maroo0&theme=dark)](https://github.com/0maroo0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maroo0&theme=dark&count_private=true)](https://github.com/0maroo0/github-readme-stats)
 
 
  <!---
