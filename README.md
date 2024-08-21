@@ -20,7 +20,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=0maroo0&show_icons=true&theme=dark&count_private=false" width="500">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maroo0&theme=dark&count_private=true)](https://github.com/0maroo0/github-readme-stats)
 
 
  <!---
