@@ -18,7 +18,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=0maroo0&theme=dark&hide_border=false&count_private=true" width="500">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0maroo0&show_icons=true&theme=dark&count_private=false" width="500">
 
 
 
